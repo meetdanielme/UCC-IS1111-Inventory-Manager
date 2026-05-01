@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(gh api *)",
+      "Bash(curl -s https://raw.githubusercontent.com/meetdanielme/UCC-IS1110-Budget-Tracker/main/README.md)"
+    ]
+  }
+}
